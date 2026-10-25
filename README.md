@@ -121,7 +121,10 @@ Here are the key systems and applications actively in development, demonstrating
 timeline
     title Enterprise Infrastructure Leadership Timeline
     2013 - 2014 : Digital Realty Trust : Data Center Solutions & Physical/Digital Security Lead
-    2019 - Present : Dell Technologies : Senior Infrastructure & Storage Systems Engineer (>99.99% Uptime, Enterprise SAN)
+    2015 - 2016 : VCE (Converged Infrastructure) : Converged Infrastructure Systems Engineer (Vblock, Cisco/EMC/VMware)
+    2016 - 2017 : EMC / Dell EMC : Storage & Systems Infrastructure Engineer (Dell-EMC Merger Transition)
+    2017 - 2019 : Virtustream (Dell Technologies) : Senior Enterprise Cloud & Systems Engineer (Mission-Critical SAP/IaaS)
+    2019 - Present : Dell Technologies : Senior Infrastructure & Storage Systems Engineer (>99.99% Uptime, Enterprise SAN/NAS)
 ```
 
 ### **Dell Technologies** | *Senior Infrastructure & Storage Systems Engineer*
@@ -130,6 +133,24 @@ timeline
 * Architect proactive storage upgrade strategies, LUN allocation, and file restoration workflows across enterprise SAN/NAS environments.
 * Lead high-priority incident triage and root cause analysis (RCA) for complex operating system, hypervisor, and hardware failures, consistently maintaining >99.99% uptime SLAs.
 * Supervise automated patch cycles, firmware upgrades, and security hardening across mixed Windows Server and enterprise Linux environments.
+
+### **Virtustream (Dell Technologies)** | *Senior Enterprise Cloud & Systems Engineer*
+**2017 – 2019 | Enterprise Mission-Critical Cloud**
+* Engineered and supported hyper-resilient mission-critical cloud infrastructure (IaaS) for tier-1 enterprise and SAP workloads.
+* Managed multi-tenant virtualization clusters, automated host provisioning, and storage tiering across enterprise virtual data centers (vDCs).
+* Maintained strict compliance, security boundary isolation, and continuous performance SLAs across private and hybrid cloud deployments.
+
+### **EMC Corporation / Dell EMC** | *Storage & Systems Infrastructure Engineer*
+**2016 – 2017 | Enterprise Storage & Systems Transition**
+* Managed high-density SAN/NAS storage arrays, Fibre Channel fabrics, and volume replication during the historic Dell-EMC merger transition.
+* Provisioned LUN allocations, multipath I/O configurations, and backup vaulting protocols across high-throughput production clusters.
+* Partnered with cross-functional engineering teams to standardize infrastructure management runbooks and firmware lifecycle standards.
+
+### **VCE – The Converged Infrastructure Company (EMC)** | *Converged Infrastructure & Systems Engineer*
+**2015 – 2016 | Converged Infrastructure & Cloud Platforms**
+* Deployed, configured, and maintained Vblock converged infrastructure platforms integrating Cisco UCS compute, Cisco Nexus networking, EMC storage, and VMware vSphere.
+* Monitored system health, remediated hypervisor-to-storage latency bottlenecks, and executed scheduled non-disruptive platform upgrades.
+* Authored custom PowerShell and automation scripts to accelerate component discovery and host configuration audits.
 
 ### **Digital Realty Trust / Allied Barton** | *Data Center Solutions & Physical/Digital Security Lead*
 **2013 – 2014 | Hyper-Scale Colocation**
