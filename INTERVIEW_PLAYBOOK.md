@@ -7,12 +7,12 @@
 ## ⚡ 1. The Executive Elevator Pitch
 
 ### The 30-Second Version (Recruiter / Screener)
-> *"I'm a Senior Infrastructure and Systems Engineer with over 12 years of enterprise leadership experience maintaining tier-4 data centers and critical storage environments at companies like Dell Technologies and Rolls-Royce. At Army Medical Worldwide, I spearheaded infrastructure rollouts across more than 21,000 endpoints globally, driving zero-day patch compliance to 99%+. Today, I pair that deep low-level infrastructure and Linux/storage expertise with modern autonomous AI engineering, building local LLM orchestration pipelines, ASP.NET Core security platforms, and asynchronous Python automation suites."*
+> *"I'm a Senior Infrastructure and Systems Engineer with over 12 years of enterprise leadership experience maintaining mission-critical SAN/NAS storage, Linux environments, and tier-4 data center facilities at Dell Technologies and Digital Realty Trust. Today, I pair that deep low-level infrastructure, storage, and systems expertise with modern autonomous AI engineering, building local LLM orchestration hubs, ASP.NET Core security platforms, and asynchronous Python automation suites."*
 
 ### The 2-Minute Version (Hiring Manager / Director)
-> *"My career has centered on mission-critical environments where downtime is unacceptable. Over the last decade, I've managed enterprise SAN/NAS storage arrays, VMware clusters, and global endpoint fleets. At Dell Technologies, I’ve maintained >99.99% uptime across production storage environments, leading Tier-4 root cause analysis and proactive LUN provisioning.*
+> *"My career has centered on mission-critical environments where downtime is unacceptable. Over the last decade, I've managed enterprise SAN/NAS storage arrays, VMware clusters, and enterprise systems fleets. At Dell Technologies, I’ve maintained >99.99% uptime across production storage environments, leading Tier-4 root cause analysis and proactive LUN provisioning.*
 >
-> *Earlier with Army Medical, I commanded MECM/SCCM and WSUS infrastructure across 21,000+ endpoints worldwide, solving complex OSD and PXE routing issues across multi-tenant military hospital subnets and saving six figures by eliminating redundant third-party patching tools.*
+> *Throughout my enterprise career, I've driven infrastructure standardization, automated capacity monitoring, and disaster recovery architectures. I specialize in bridging traditional systems and storage administration with modern DevSecOps, infrastructure automation, and automated compliance frameworks.*
 >
 > *What sets me apart today is my drive to automate. Instead of treating infrastructure as static hardware, I build modern software tooling around it: I've engineered local LLM orchestration hubs with Ollama and Python, built VulnGuard in C# .NET 10 for automated CVE triage aligned with NIST CSF, and created event-driven automation daemons that handle automated multi-repo backups and system telemetry. I bring both the seasoned operational discipline of a senior infrastructure architect and the velocity of a modern full-stack software engineer."*
 
@@ -20,15 +20,15 @@
 
 ## 🏆 2. Core Enterprise STAR Stories
 
-### Story 1: Scaling to 21,000+ Endpoints (Army Medical Treatment Facilities)
-* **Question:** *"Tell me about a time you managed systems at massive scale or resolved complex deployment failures across distributed environments."*
-* **Situation:** Army medical facilities across the world had disconnected subnets, differing network bandwidth, and strict patient-care availability constraints where updates could not cause downtime.
-* **Task:** Standardize Operating System Deployments (OSD), resolve high PXE broadcast failure rates, and establish rapid zero-day patching cycles across 21,000+ endpoints.
+### Story 1: Automated Vulnerability Remediation & Compliance (VulnGuard Enterprise)
+* **Question:** *"Tell me about a time you modernized an operational process or automated security compliance across production systems."*
+* **Situation:** Systems and infrastructure teams frequently face hundreds of raw CVE alerts weekly from security scanners, creating alert fatigue without clear operational prioritization for patching windows.
+* **Task:** Build an automated platform to ingest vulnerability data, evaluate operational risk scores, and align remediation workflows directly with NIST CSF domains.
 * **Action:** 
-  1. Restructured MECM/SCCM boundary groups and distribution points to prevent broadcast storms.
-  2. Built modular task sequences with pre-flight health checks verifying local disk, network, and registry state before allowing updates.
-  3. Replaced third-party third-party patching tools with custom PowerShell wrappers integrated directly into WSUS/MECM.
-* **Result:** Patch velocity increased by 40%, global compliance exceeded 99%, and the department eliminated over $100K in unnecessary licensing fees.
+  1. Designed an ASP.NET Core (.NET 10) platform with Entity Framework Core and SQLite utilizing clean MVC architecture.
+  2. Implemented automated CVE triage scoring algorithms and cryptographic hash verification modules.
+  3. Mapped remediation workflows to the five NIST Cybersecurity Framework domains (Identify, Protect, Detect, Respond, Recover).
+* **Result:** Cut triage time by over 50%, eliminated alert fatigue, and provided auditable compliance reporting for infrastructure environments.
 
 ### Story 2: >99.99% Storage Availability & RCA under Pressure (Dell Technologies)
 * **Question:** *"How do you approach high-severity production incidents or storage capacity management?"*

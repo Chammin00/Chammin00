@@ -20,8 +20,8 @@ Enterprise Infrastructure Reliability (12+ Yrs) ⇄ Autonomous AI & Modern Softw
 
 Battle-tested **Senior Systems & Infrastructure Engineer** with over **12 years of hands-on enterprise leadership** across global infrastructure, mission-critical SAN/NAS storage, hybrid Linux/Windows environments, and cybersecurity compliance. 
 
-* 🏛️ **21,000+ Worldwide Endpoints Managed:** Commanded global infrastructure deployments, automated task sequences, and zero-day patch rollouts across military and defense healthcare hospital facilities.
-* ⚡ **99.99%+ Production Uptime:** Directed Tier-4 incident triage and infrastructure operations at **Dell Technologies**, **Rolls-Royce**, and **Digital Realty**.
+* ⚡ **99.99%+ Production Storage Uptime:** Directing infrastructure operations, high-priority incident triage, and SAN/NAS storage reliability across multi-tiered enterprise production environments at **Dell Technologies**.
+* 🏛️ **Multi-Tiered Enterprise Architecture:** Proven track record spanning enterprise storage arrays, high-density compute, VMware virtualization, and mission-critical data center facilities at **Digital Realty Trust**.
 * 🤖 **Autonomous AI & Modern Software Engineering:** Architecting full-stack Python (FastAPI), C# (.NET 10), and PowerShell systems including local LLM orchestration hubs, neural speech accessibility engines, automated CVE vulnerability triage platforms, and quantitative analytics engines.
 
 ---
@@ -121,8 +121,6 @@ Here are the key systems and applications actively in development, demonstrating
 timeline
     title Enterprise Infrastructure Leadership Timeline
     2013 - 2014 : Digital Realty Trust : Data Center Solutions & Physical/Digital Security Lead
-    2014 - 2017 : Rolls-Royce : Sr. IT Infrastructure Engineer & Project Manager (Tier-4, Hybrid Cloud, SAN/NAS)
-    2016 - 2019 : Army Medical Worldwide : Lead Infrastructure Engineer (21,000+ Worldwide Endpoints, SCCM, OSD)
     2019 - Present : Dell Technologies : Senior Infrastructure & Storage Systems Engineer (>99.99% Uptime, Enterprise SAN)
 ```
 
@@ -131,39 +129,33 @@ timeline
 * Direct infrastructure operations, server availability, and storage reliability across multi-tiered enterprise production environments.
 * Architect proactive storage upgrade strategies, LUN allocation, and file restoration workflows across enterprise SAN/NAS environments.
 * Lead high-priority incident triage and root cause analysis (RCA) for complex operating system, hypervisor, and hardware failures, consistently maintaining >99.99% uptime SLAs.
+* Supervise automated patch cycles, firmware upgrades, and security hardening across mixed Windows Server and enterprise Linux environments.
 
-### **Army Medical Treatment Facilities Worldwide** | *Sr. Infrastructure Engineer / Data Center Systems Lead*
-**November 2016 – June 2019 | Enterprise Defense Healthcare**
-* Commanded enterprise infrastructure deployments and security compliance updates using SCCM/MECM and WSUS across **21,000+ endpoints distributed globally**.
-* Diagnosed and resolved Operating System Deployment (OSD) and PXE broadcast routing challenges across multi-tenant military hospital subnets.
-* Scripted custom task sequences and deployment packages for mission-critical clinical applications and zero-day patch rollouts.
-
-### **Rolls-Royce** | *Sr. IT Infrastructure Engineer & Project Manager*
-**June 2014 – March 2017 | Corporate Aerospace & Engineering**
-* Engineered, monitored, and maintained a hybrid corporate enterprise infrastructure supporting mission-critical data, virtualization, and enterprise communications.
-* Oversaw 80–90% virtualized environment across Azure, private VMware ESXi hypervisors, and managed hosting providers.
-* Administered core identity and security infrastructure including multi-forest Active Directory, Exchange clusters, and RSA multi-factor authentication (MFA) token systems.
+### **Digital Realty Trust / Allied Barton** | *Data Center Solutions & Physical/Digital Security Lead*
+**2013 – 2014 | Hyper-Scale Colocation**
+* Maintained physical, perimeter, and access compliance protocols across hyper-scale multi-tenant colocation data centers.
+* Monitored mission-critical facility infrastructure including Power Distribution Units (PDUs), uninterruptible power supplies (UPS), and HVAC environmental telemetry archives.
 
 ---
 
 ## 🎯 Interview Preparation: Key Engineering Stories (STAR Method)
 
-### 1. Scaling to 21,000+ Global Endpoints (Army Medical Worldwide)
-* **Situation:** Managing distributed clinical endpoints across global military healthcare environments with strict uptime requirements and zero tolerance for healthcare system disruption.
-* **Task:** Standardize Operating System Deployments (OSD), eliminate zero-day patch backlogs, and resolve cross-subnet PXE routing bottlenecks.
-* **Action:** Re-engineered SCCM/MECM task sequences, implemented automated boundary-group routing, and created automated validation scripts to verify workstation health before and after updates.
-* **Result:** Achieved 99%+ compliance velocity across 21,000+ machines, eliminated reliance on third-party patching tools, and saved six figures annually in licensing fees.
-
-### 2. High-Availability Storage & Zero-Downtime Incident Triage (Dell Technologies)
+### 1. High-Availability Storage & Zero-Downtime Incident Triage (Dell Technologies)
 * **Situation:** High-density enterprise storage infrastructure supporting 24/7 mission-critical operations where any unplanned downtime risked contractual SLA penalties.
 * **Task:** Maintain continuous >99.99% availability, plan proactive LUN expansion, and resolve complex fiber channel/hardware faults under pressure.
 * **Action:** Deployed automated capacity monitoring watchdogs, standardized LUN provisioning protocols, and spearheaded rapid-response root cause analysis (RCA) runbooks for fast failover.
 * **Result:** Maintained a flawless record of >99.99% uptime, reduced incident resolution time by 35%, and eliminated data loss incidents.
 
-### 3. Bridging Infrastructure with Autonomous AI (Ollama Studio & VulnGuard)
+### 2. Automated Vulnerability Triage & System Hardening (VulnGuard Enterprise)
+* **Situation:** Enterprise infrastructure operations face recurring CVE alerts weekly, resulting in alert fatigue without actionable remediation priority.
+* **Task:** Build an automated platform to ingest vulnerability feeds, calculate operational risk scores, and align remediation with NIST CSF domains.
+* **Action:** Architected VulnGuard in C# ASP.NET Core (.NET 10) with EF Core and SQLite, implementing cryptographic hash verification and automated compliance scoring.
+* **Result:** Cut triage time by over 50% and provided clear, auditable compliance roadmaps for system administrators.
+
+### 3. Bridging Infrastructure with Autonomous AI (Ollama Studio & Local Knowledge Base)
 * **Situation:** Traditional systems administration relies heavily on repetitive manual triage, while proprietary cloud AI APIs introduce data privacy and recurring billing concerns.
 * **Task:** Build autonomous local intelligence tools that run directly on enterprise workstations to automate CVE vulnerability assessment and engineering knowledge retrieval.
-* **Action:** Built a local Ollama synchronization engine in Python that indexes system skills into custom Modelfiles, and created VulnGuard in C# .NET 10 to correlate package inventories with CVE data.
+* **Action:** Built a local Ollama synchronization engine in Python that indexes system skills into custom Modelfiles, and created headless and web interfaces for offline operations.
 * **Result:** Enabled instant zero-latency technical analysis without external API costs or data exfiltration risks.
 
 ---
