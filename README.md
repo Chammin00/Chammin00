@@ -44,7 +44,7 @@ Here are the key systems and applications actively in development, demonstrating
 
 ### 1. 🧠 Local AI & Machine Learning Systems
 
-#### [Ollama Studio & AI Skill Knowledge Base](https://github.com/Chammin00)
+#### [Ollama Studio & AI Skill Knowledge Base](https://github.com/Chammin00/ollama-studio)
 * **Category:** Local LLM Orchestration & Enterprise Knowledge Retrieval
 * **Tech Stack:** `Python 3.12` `Ollama` `Qwen 2.5 Coder` `Llama 3` `Windows Task Scheduler` `REST APIs`
 * **Overview:** A self-contained local AI workbench and automated synchronization pipeline that compiles distributed agent skills and engineering workflows into structured JSON knowledge bases, custom Modelfiles, and scheduled background daemons.
@@ -53,7 +53,7 @@ Here are the key systems and applications actively in development, demonstrating
   - Configured zero-latency local code completion and technical QA without sending proprietary data to third-party APIs.
   - Provides dual operational modes: interactive web studio + headless CLI terminal chat.
 
-#### [Kindle Narrator & Vision Screen Reader](https://github.com/Chammin00)
+#### [Kindle Narrator & Vision Screen Reader](https://github.com/Chammin00/screen-reader)
 * **Category:** Desktop Computer Vision & Neural Audio Synthesis
 * **Tech Stack:** `Python` `CustomTkinter` `Windows OCR API` `Edge-TTS Neural Voice` `Pillow`
 * **Overview:** High-performance desktop accessibility utility designed for DRM-protected text and rapid technical reading. Uses native Windows bounding-box OCR and asynchronous neural text-to-speech to read books, code documentation, and whitepapers aloud.
@@ -61,7 +61,7 @@ Here are the key systems and applications actively in development, demonstrating
   - Engineered an asynchronous pipeline separating screen capture, bounding-box OCR filtering, and chunked TTS audio playback.
   - Implemented automated page turning heuristics with bookmark synchronization (`bookmarks.json`).
 
-#### [Autonomous Invoice & BOL Reconciliation Engine](https://github.com/Chammin00)
+#### [Autonomous Invoice & BOL Reconciliation Engine](https://github.com/Chammin00/invoice-bol-reconciliation)
 * **Category:** B2B AI Operations & Enterprise Accounting
 * **Tech Stack:** `FastAPI` `Python 3.12` `PyPDF2` `SQLite` `Jinja2` `Pytest`
 * **Overview:** High-value enterprise operations engine that ingests vendor PDF invoices and Bills of Lading, extracts line items via deterministic regex/OCR algorithms, reconciles discrepancies in SQLite, and generates audit reports.
@@ -71,21 +71,13 @@ Here are the key systems and applications actively in development, demonstrating
 
 ### 2. 🛡️ Enterprise Cybersecurity & Systems Infrastructure
 
-#### [VulnGuard Enterprise](https://github.com/Chammin00)
-* **Category:** Enterprise Vulnerability Management Platform
-* **Tech Stack:** `C#` `ASP.NET Core (.NET 10)` `Entity Framework Core` `SQLite` `NIST CSF`
-* **Overview:** Comprehensive vulnerability and asset compliance tracking system. Features automated CVE triage scoring, patch velocity tracking, system hardening services, cryptographic verification, and executive security reports.
-* **Key Architecture & Interview Highlights:**
-  - Implements clean MVC architecture with Dependency Injection, Repository Pattern, and EF Core migrations.
-  - Aligns patch remediation workflows directly with the NIST Cybersecurity Framework (CSF).
-
-#### [Sentinel PC Security Guard](https://github.com/Chammin00)
+#### [Sentinel PC Security Guard](https://github.com/Chammin00/sentinel-pc-security-guard)
 * **Category:** Endpoint Threat Auditing & Hardening Suite
 * **Tech Stack:** `.NET 10.0` `C#` `PowerShell 7` `Windows Event Logs` `Sysmon`
 * **Overview:** Lightweight endpoint hygiene and audit hub that collects live PowerShell telemetry on firewall posture, antivirus status, unquoted service path vulnerabilities, and anomalous security log events.
 * **Business Impact:** Eliminates reliance on bloated third-party endpoint agents for standalone workstation security reviews.
 
-#### [SpamShield & Data Broker Opt-Out Manager](https://github.com/Chammin00)
+#### [SpamShield & Data Broker Opt-Out Manager](https://github.com/Chammin00/spamshield-data-broker-optout)
 * **Category:** Consumer Privacy Automation & Threat Mitigation
 * **Tech Stack:** `Python` `REST APIs` `XML Filter Engine` `JSON Database`
 * **Overview:** Privacy protection engine that maps data brokers, compiles automated Gmail spam filter rules (XML & Python), and logs ongoing opt-out deletion requests across major consumer data aggregators.
@@ -94,7 +86,7 @@ Here are the key systems and applications actively in development, demonstrating
 
 ### 3. 📈 Quantitative Analytics & Desktop Automation
 
-#### [StockWatch Quant Screener & Backtester](https://github.com/Chammin00)
+#### [StockWatch Quant Screener & Backtester](https://github.com/Chammin00/stock-watch)
 * **Category:** Algorithmic Finance & Quantitative Screener
 * **Tech Stack:** `Python 3.12` `Pandas` `TA-Lib / Custom Math` `UV Package Manager` `CLI`
 * **Overview:** Multi-module quantitative analysis platform featuring high-speed technical screeners, modular backtesting engines, risk-reward calculators, and alert bots.
@@ -102,12 +94,7 @@ Here are the key systems and applications actively in development, demonstrating
   - Built with modern `uv` workspace structure and strict typing.
   - Separates data ingestion, indicator calculations, backtesting strategies, and automated CLI execution.
 
-#### [Automate My Day Operations Daemon](https://github.com/Chammin00)
-* **Category:** Autonomous Task Orchestration & Media Processing
-* **Tech Stack:** `Python` `FFmpeg` `YouTube Data API v3` `PowerShell 7` `NVMe Backup Pipelines`
-* **Overview:** Background operations daemon providing zero-touch content repurposing, intelligent aspect-ratio video cropping (`smart_cutter`), audio SFX normalization, and automated cloud backups across 37 repositories to external NVMe storage.
-
-#### [Track Home Value Real Estate Analytics](https://github.com/Chammin00)
+#### [Track Home Value Real Estate Analytics](https://github.com/Chammin00/track-home-value)
 * **Category:** Automated Property Equity Tracker
 * **Tech Stack:** `Python` `HTML5 / CSS3` `Chart.js` `CSV Time-Series`
 * **Overview:** Autonomous property equity tracking script that logs monthly valuations, calculates equity appreciation, tracks amortization schedules, and renders an executive analytics dashboard.
@@ -116,12 +103,12 @@ Here are the key systems and applications actively in development, demonstrating
 
 ### 4. 🎓 EdTech & Technical Certification Simulators
 
-#### [CompTIA Security+ (SY0-701) Exam Simulator](https://github.com/Chammin00)
+#### [CompTIA Security+ (SY0-701) Exam Simulator](https://github.com/Chammin00/comptia-security-plus-simulator)
 * **Category:** Interactive Certification Preparation Platform
 * **Tech Stack:** `HTML5` `Vanilla JavaScript` `Web Speech API` `CSS Grid`
 * **Overview:** Production-grade exam preparation suite replicating the Pearson VUE interface. Includes multi-domain mock tests, Performance-Based Questions (PBQs), Web Speech API audio question narration, and timed exams.
 
-#### [RHCSA EX200 Interactive Terminal & Study Kit](https://github.com/Chammin00)
+#### [RHCSA EX200 Interactive Terminal & Study Kit](https://github.com/Chammin00/rhcsa-ex200)
 * **Category:** Hands-on Linux CLI Lab Environment
 * **Tech Stack:** `Interactive Web Terminal` `RHEL 9 CLI Parser` `Bash Emulation`
 * **Overview:** In-browser terminal emulator mimicking Red Hat Enterprise Linux 9 CLI. Provides realistic grading scenarios for LVM storage, SELinux policies, user permissions, and systemd units without needing local VM setups.
