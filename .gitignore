@@ -1,0 +1,15 @@
+# System & OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor & IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
